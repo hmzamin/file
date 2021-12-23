@@ -1,2 +1,2 @@
 ls
-apt-get install screenfetch
+sudo apt-get install screenfetch

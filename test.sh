@@ -1,2 +1,2 @@
 ls
-sudo su
+apt-get update

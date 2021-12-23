@@ -1,3 +1,2 @@
 ls
-sudo apt-get install screenfetch
-yes
+sudo su

